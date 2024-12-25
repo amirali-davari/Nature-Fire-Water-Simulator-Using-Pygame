@@ -1,18 +1,18 @@
 # Nature-Fire-Water-Simulator-Using-Pygame
-<h1>Just a fun little project. Objects change their group once they collide with another object in another group.</h1>
+<p>Just a fun little project. Objects change their group once they collide with another object in another group.</p>
 
-Keys:
-Space          --> Pause or resume
-Enter (return) --> Restart
-Z              --> On/off Debug zone
-X              --> On/off Hitbox
-Esc            --> Exit
+<h2>Keys:</h2>
+<p>Space --> Pause or resume</p>
+<p>Enter (return) --> Restart</p>
+<p>Z --> On/off Debug zone</p>
+<p>X --> On/off Hitbox</p>
+<p>Esc --> Exit</p>
 
-Setting (line 8 in main.py):
-RPS (boolean)      --> Changes the theme to rock paper scissors if True
-STAT_BAR (boolean) --> Shows the stat bar in the left of the screen if True
-OBJ_NUMBER (int)   --> Sets the amount of objects in each group
+<h2>Setting (line 8 in main.py):</h2>
+<p>RPS (boolean)      --> Changes the theme to rock paper scissors if True</p>
+<p>STAT_BAR (boolean) --> Shows the stat bar in the left of the screen if True</p>
+<p>OBJ_NUMBER (int)   --> Sets the amount of objects in each group</p>
 
-Resources are downloaded from:
-https://www.pngitem.com/
-https://www.freepik.com/
+<h2>Resources are downloaded from:</h2>
+<p>https://www.pngitem.com/</p>
+<p>https://www.freepik.com/</p>
