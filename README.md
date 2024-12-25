@@ -1,5 +1,5 @@
 # Nature-Fire-Water-Simulator-Using-Pygame
-Just a fun little project. Objects change their group once they collide with another object in another group.
+<h1>Just a fun little project. Objects change their group once they collide with another object in another group.</h1>
 
 Keys:
 Space          --> Pause or resume
